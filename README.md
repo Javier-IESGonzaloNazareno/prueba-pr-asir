@@ -23,11 +23,8 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 * [Alberto Bernal Tejero](files/abt.md)
 
 * [Adrián Delgado Parrilla](files/adp.md)
-
 * [Luca Matonte Antúnez](files/lma.md)
-
 * [Jesús Figueroa Roldán](files/jfr.md)
-
 * [José Manuel López Hueso](files/jmlh.md)
-
 * [David Peña Fierro](files/dpf.md)
+* [Fran Rodriguez Toro](files/frt.md)
