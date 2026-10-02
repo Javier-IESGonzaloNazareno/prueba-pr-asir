@@ -17,21 +17,16 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 
  
 * [Javier Jiménez Castillo](files/jjc.md)
-
+* [Daniel Berzosa Cadenas](files/dbc.md)
 * [Juan Carlos Fernandez Palma](files/jcfp.md)
-
 * [Alberto Bernal Tejero](files/abt.md)
-
 * [Adrián Delgado Parrilla](files/adp.md)
-
 * [Luca Matonte Antúnez](files/lma.md)
-
 * [Jesús Figueroa Roldán](files/jfr.md)
-
+* [Ismael Vázquez Ferrero](files/ivf.md)
 * [José Manuel López Hueso](files/jmlh.md)
-
 * [David Peña Fierro](files/dpf.md)
-
+* [Noelia Medina Medina](files/nmm.md)
 * [Alejandro Tejada Pèrez](files/atp.md)
 
 * [Pablo Villalón Alfaro](files/pva.md)
