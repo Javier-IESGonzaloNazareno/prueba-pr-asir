@@ -4,4 +4,5 @@ Mi **asignatura** favorita es:
 
 ### Seguridad y Alta disponibilidad 
 
-Ya que me gusta la ciberseguridad
+* Ya que me gusta la ciberseguridad
+* Y las cosas que se pueden aprender 
