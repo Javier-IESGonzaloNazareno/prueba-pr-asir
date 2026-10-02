@@ -32,3 +32,5 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 * [Alejandro Tejada Pèrez](files/atp.md)
 * [Gabriel Merencio Ortega](files/gmo.md)
 * [Pablo Villalón Alfaro](files/pva.md)
+
+* [Alfredo Fernández Ferrete](files/aff.md)
