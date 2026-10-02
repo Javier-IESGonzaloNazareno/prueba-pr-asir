@@ -33,3 +33,5 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 * [David Peña Fierro](files/dpf.md)
 
 * [Alejandro Tejada Pèrez](files/atp.md)
+
+* [Pablo Villalón Alfaro](files/pva.md)
