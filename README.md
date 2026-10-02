@@ -26,3 +26,4 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 
 * [José Manuel López Hueso](files/JLMH.md)
 
+* [David Peña Fierro](files/dpf.md)
