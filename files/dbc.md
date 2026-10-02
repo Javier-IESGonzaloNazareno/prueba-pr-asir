@@ -5,3 +5,11 @@ Mi **asignatura** favorita es:
 ### Seguridad y alta disponibilidad
 
 Se me hace bastante interesante.
+
+Tiene herramientas chulas como:
+
+- `Hydra`
+
+- `Nmap`
+
+

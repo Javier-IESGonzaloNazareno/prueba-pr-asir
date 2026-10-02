@@ -17,6 +17,7 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 
  
 * [Javier Jiménez Castillo](files/jjc.md)
+* [Rubén Rincón Terrero](files/rr.md)
 * [Sergio Mesa Mejias](files/smm.md)
 * [Daniel Berzosa Cadenas](files/dbc.md)
 * [Juan Carlos Fernandez Palma](files/jcfp.md)
@@ -32,3 +33,5 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 * [David Peña Fierro](files/dpf.md)
 * [Alejandro Tejada Pèrez](files/atp.md)
 * [Fran Rodriguez Toro](files/fjrt.md)
+* [Gabriel Merencio Ortega](files/gmo.md)
+* [Pablo Villalón Alfaro](files/pva.md)
