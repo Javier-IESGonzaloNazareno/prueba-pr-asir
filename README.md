@@ -18,3 +18,4 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
  
 * [Javier Jiménez Castillo](files/jjc.md)
 * [Gabriel Merencio Ortega](files/gmo.md)
+* [Jesús Figueroa Roldán](files/jfr.md)
