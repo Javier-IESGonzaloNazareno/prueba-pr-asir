@@ -17,3 +17,4 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 
  
 * [Javier Jiménez Castillo](files/jjc.md)
+* [Juan Carlos Fernandez Palma](files/jcfp.md)
