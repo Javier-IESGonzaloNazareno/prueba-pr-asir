@@ -20,6 +20,10 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 
 * [Sergio Mesa Mejias](files/smm.md)
 
+* [Juan Carlos Fernandez Palma](files/jcfp.md)
+
+* [Alberto Bernal Tejero](files/abt.md)
+
 * [Adrián Delgado Parrilla](files/adp.md)
 
 * [Luca Matonte Antúnez](files/lma.md)
