@@ -19,3 +19,6 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 * [Javier Jiménez Castillo](files/jjc.md)
 
 * [Adrián Delgado Parrilla](files/adp.md)
+
+* [Jesús Figueroa Roldán](files/jfr.md)
+
